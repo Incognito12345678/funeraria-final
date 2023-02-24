@@ -906,6 +906,9 @@ button {
         font-family: 'Poppins', sans-serif;
 
     }
+    .tamano-velacion{
+        width: 30px;
+    }
 
     .img-galeria {
         width: 95%;
